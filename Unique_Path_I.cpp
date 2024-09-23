@@ -67,7 +67,7 @@ public:
 };
 
 //space optimise
-//first approach
+
 class Solution {                                                                      
 public:
     int uniquePaths(int m, int n) {                                                
